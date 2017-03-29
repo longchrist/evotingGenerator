@@ -8,3 +8,5 @@ Tujuan dari penelitian ini adalah untuk membuat sistem pemilihan secara elektron
 Inti dari program evotingGenerator ini adalah pada desain dan implementasi dari algoritma untuk <i>random number generator</i>.
 
 Program ini dibuat untuk memenuhi sebagian dari syarat untuk memperoleh gelar magister teknik elektro dari Institut Teknologi Bandung.
+
+# -----
